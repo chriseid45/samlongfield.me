@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\docs\\css",
+    "\\docs\\js",
+    "\\docs\\plugins",
+    "\\docs\\plugins\\bulma",
+    "\\docs\\plugins\\jQuery",
+    "\\docs\\plugins\\shuffle",
+    "\\docs\\plugins\\slick",
+    "\\docs\\plugins\\themify-icons"
   ],
+  "SelectedNode": "\\docs\\css\\style.css",
   "PreviewInSolutionExplorer": false
 }
